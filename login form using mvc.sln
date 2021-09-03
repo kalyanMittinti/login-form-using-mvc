@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login form using mvc", "login form using mvc\login form using mvc.csproj", "{6A5A2609-2FFB-4D7D-A851-87A2D8F5F9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5A2609-2FFB-4D7D-A851-87A2D8F5F9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5A2609-2FFB-4D7D-A851-87A2D8F5F9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5A2609-2FFB-4D7D-A851-87A2D8F5F9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5A2609-2FFB-4D7D-A851-87A2D8F5F9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B655146-4F3E-4297-8F93-41F71B202348}
+	EndGlobalSection
+EndGlobal
